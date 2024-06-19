@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kogado\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8294E7A-CB7D-4A98-B853-10A81E0C47D6}|Project1\\Project1.vcxproj|C:\\Users\\kogado\\source\\repos\\Project1\\Project1\\Pricol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8294E7A-CB7D-4A98-B853-10A81E0C47D6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pricol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 442,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pricol.cpp",
+              "DocumentMoniker": "C:\\Users\\kogado\\source\\repos\\Project1\\Project1\\Pricol.cpp",
+              "RelativeDocumentMoniker": "Project1\\Pricol.cpp",
+              "ToolTip": "C:\\Users\\kogado\\source\\repos\\Project1\\Project1\\Pricol.cpp",
+              "RelativeToolTip": "Project1\\Pricol.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T19:27:02.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
